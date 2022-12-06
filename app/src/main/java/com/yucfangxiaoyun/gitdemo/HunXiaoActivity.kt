@@ -8,7 +8,7 @@ class HunXiaoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_hun_xiao)
 
-        val a = 0
-        val b = 0
+        val a = 1
+        val b = 2
     }
 }
